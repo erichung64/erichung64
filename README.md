@@ -1,6 +1,6 @@
 # 🏀 Eric Chung
 
-**`Software Developer @ Designer`**
+**`Software Developer & Designer`**
 
 👋 Hi, I'm Eric, a fourth-year undergraduate student at the University of Illinois Urbana Champaign, majoring in Computer Science. I'm deeply passionate about software development, with a particular interest in full stack development and innovative technology solutions. My journey through computer science has led me to explore various aspects of technology, from frontend design to backend systems, always with a keen interest in creating seamless, user-centric applications. Whether I'm coding a new project or diving into the latest tech trends, I'm always looking for ways to push the boundaries of what's possible with code. Welcome to my GitHub profile, where I share my adventures in coding and collaboration.
 
